@@ -12,7 +12,7 @@
     "@ai-sdk/react": "workspace:*",
     "@ai-sdk/langchain": "workspace:*",
     "@langchain/openai": "0.0.28",
-    "@langchain/core": "0.1.63",
+    "@langchain/core": "0.3.80",
     "ai": "workspace:*",
     "langchain": "0.1.36",
     "next": "latest",
